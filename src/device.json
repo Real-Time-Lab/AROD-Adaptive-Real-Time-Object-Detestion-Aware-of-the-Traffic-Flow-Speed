@@ -1,0 +1,207 @@
+{
+    "cpu": {
+        "cpu0": {
+            "freq_min": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_min_freq",
+            "freq_now": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq",
+            "freq_max": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_max_freq",
+            "available_freq": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_available_frequencies",
+            "temp": "",
+            "governor": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_governor",
+            "setspeed": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_setspeed",
+            "available_governor":"/sys/devices/system/cpu/cpu0/cpufreq/scaling_available_governors"
+        },
+        "cpu1": {
+            "freq_min": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_min_freq",
+            "freq_now": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_cur_freq",
+            "freq_max": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_max_freq",
+            "available_freq": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_available_frequencies",
+            "temp": "",
+            "governor": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_governor",
+            "setspeed": "/sys/devices/system/cpu/cpu1/cpufreq/scaling_setspeed",
+            "available_governor":"/sys/devices/system/cpu/cpu1/cpufreq/scaling_available_governors"
+        },
+        "cpu2": {
+            "freq_min": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_min_freq",
+            "freq_now": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_cur_freq",
+            "freq_max": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_max_freq",
+            "available_freq": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_available_frequencies",
+            "temp": "",
+            "governor": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_governor",
+            "setspeed": "/sys/devices/system/cpu/cpu2/cpufreq/scaling_setspeed",
+            "available_governor":"/sys/devices/system/cpu/cpu2/cpufreq/scaling_available_governors"
+        },
+        "cpu3": {
+            "freq_min": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_min_freq",
+            "freq_now": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_cur_freq",
+            "freq_max": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_max_freq",
+            "available_freq": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_available_frequencies",
+            "temp": "",
+            "governor": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_governor",
+            "setspeed": "/sys/devices/system/cpu/cpu3/cpufreq/scaling_setspeed",
+            "available_governor":"/sys/devices/system/cpu/cpu3/cpufreq/scaling_available_governors"
+        },
+        "cpu4": {
+            "freq_min": "/sys/devices/system/cpu/cpu4/cpufreq/scaling_min_freq",
+            "freq_now": "/sys/devices/system/cpu/cpu4/cpufreq/scaling_cur_freq",
+            "freq_max": "/sys/devices/system/cpu/cpu4/cpufreq/scaling_max_freq",
+            "available_freq": "/sys/devices/system/cpu/cpu4/cpufreq/scaling_available_frequencies",
+            "temp": "",
+            "governor": "/sys/devices/system/cpu/cpu4/cpufreq/scaling_governor",
+            "setspeed": "/sys/devices/system/cpu/cpu4/cpufreq/scaling_setspeed",
+            "available_governor":"/sys/devices/system/cpu/cpu4/cpufreq/scaling_available_governors"
+        },
+        "cpu5": {
+            "freq_min": "/sys/devices/system/cpu/cpu5/cpufreq/scaling_min_freq",
+            "freq_now": "/sys/devices/system/cpu/cpu5/cpufreq/scaling_cur_freq",
+            "freq_max": "/sys/devices/system/cpu/cpu5/cpufreq/scaling_max_freq",
+            "available_freq": "/sys/devices/system/cpu/cpu5/cpufreq/scaling_available_frequencies",
+            "temp": "",
+            "governor": "/sys/devices/system/cpu/cpu5/cpufreq/scaling_governor",
+            "setspeed": "/sys/devices/system/cpu/cpu5/cpufreq/scaling_setspeed",
+            "available_governor":"/sys/devices/system/cpu/cpu5/cpufreq/scaling_available_governors"
+        },
+        "cpu6": {
+            "freq_min": "/sys/devices/system/cpu/cpu6/cpufreq/scaling_min_freq",
+            "freq_now": "/sys/devices/system/cpu/cpu6/cpufreq/scaling_cur_freq",
+            "freq_max": "/sys/devices/system/cpu/cpu6/cpufreq/scaling_max_freq",
+            "available_freq": "/sys/devices/system/cpu/cpu6/cpufreq/scaling_available_frequencies",
+            "temp": "",
+            "governor": "/sys/devices/system/cpu/cpu6/cpufreq/scaling_governor",
+            "setspeed": "/sys/devices/system/cpu/cpu6/cpufreq/scaling_setspeed",
+            "available_governor":"/sys/devices/system/cpu/cpu6/cpufreq/scaling_available_governors"
+        },
+        "cpu7": {
+            "freq_min": "/sys/devices/system/cpu/cpu7/cpufreq/scaling_min_freq",
+            "freq_now": "/sys/devices/system/cpu/cpu7/cpufreq/scaling_cur_freq",
+            "freq_max": "/sys/devices/system/cpu/cpu7/cpufreq/scaling_max_freq",
+            "available_freq": "/sys/devices/system/cpu/cpu7/cpufreq/scaling_available_frequencies",
+            "temp": "",
+            "governor": "/sys/devices/system/cpu/cpu7/cpufreq/scaling_governor",
+            "setspeed": "/sys/devices/system/cpu/cpu7/cpufreq/scaling_setspeed",
+            "available_governor":"/sys/devices/system/cpu/cpu7/cpufreq/scaling_available_governors"
+        },
+        
+        
+        "cpu8": {
+            "freq_min": "/sys/devices/system/cpu/cpu8/cpufreq/scaling_min_freq",
+            "freq_now": "/sys/devices/system/cpu/cpu8/cpufreq/scaling_cur_freq",
+            "freq_max": "/sys/devices/system/cpu/cpu8/cpufreq/scaling_max_freq",
+            "available_freq": "/sys/devices/system/cpu/cpu8/cpufreq/scaling_available_frequencies",
+            "temp": "",
+            "governor": "/sys/devices/system/cpu/cpu8/cpufreq/scaling_governor",
+            "setspeed": "/sys/devices/system/cpu/cpu8/cpufreq/scaling_setspeed",
+            "available_governor":"/sys/devices/system/cpu/cpu7/cpufreq/scaling_available_governors"
+        },
+        
+        "cpu9": {
+            "freq_min": "/sys/devices/system/cpu/cpu9/cpufreq/scaling_min_freq",
+            "freq_now": "/sys/devices/system/cpu/cpu9/cpufreq/scaling_cur_freq",
+            "freq_max": "/sys/devices/system/cpu/cpu9/cpufreq/scaling_max_freq",
+            "available_freq": "/sys/devices/system/cpu/cpu9/cpufreq/scaling_available_frequencies",
+            "temp": "",
+            "governor": "/sys/devices/system/cpu/cpu9/cpufreq/scaling_governor",
+            "setspeed": "/sys/devices/system/cpu/cpu9/cpufreq/scaling_setspeed",
+            "available_governor":"/sys/devices/system/cpu/cpu9/cpufreq/scaling_available_governors"
+        },
+        
+
+        "cpu10": {
+            "freq_min": "/sys/devices/system/cpu/cpu10/cpufreq/scaling_min_freq",
+            "freq_now": "/sys/devices/system/cpu/cpu10/cpufreq/scaling_cur_freq",
+            "freq_max": "/sys/devices/system/cpu/cpu10/cpufreq/scaling_max_freq",
+            "available_freq": "/sys/devices/system/cpu/cpu10/cpufreq/scaling_available_frequencies",
+            "temp": "",
+            "governor": "/sys/devices/system/cpu/cpu10/cpufreq/scaling_governor",
+            "setspeed": "/sys/devices/system/cpu/cpu10/cpufreq/scaling_setspeed",
+            "available_governor":"/sys/devices/system/cpu/cpu10/cpufreq/scaling_available_governors"
+        },
+        
+        "cpu11": {
+            "freq_min": "/sys/devices/system/cpu/cpu11/cpufreq/scaling_min_freq",
+            "freq_now": "/sys/devices/system/cpu/cpu11/cpufreq/scaling_cur_freq",
+            "freq_max": "/sys/devices/system/cpu/cpu11/cpufreq/scaling_max_freq",
+            "available_freq": "/sys/devices/system/cpu/cpu11/cpufreq/scaling_available_frequencies",
+            "temp": "",
+            "governor": "/sys/devices/system/cpu/cpu11/cpufreq/scaling_governor",
+            "setspeed": "/sys/devices/system/cpu/cpu11/cpufreq/scaling_setspeed",
+            "available_governor":"/sys/devices/system/cpu/cpu11/cpufreq/scaling_available_governors"
+        },
+        
+        "cpu12": {
+            "freq_min": "/sys/devices/system/cpu/cpu12/cpufreq/scaling_min_freq",
+            "freq_now": "/sys/devices/system/cpu/cpu12/cpufreq/scaling_cur_freq",
+            "freq_max": "/sys/devices/system/cpu/cpu12/cpufreq/scaling_max_freq",
+            "available_freq": "/sys/devices/system/cpu/cpu12/cpufreq/scaling_available_frequencies",
+            "temp": "",
+            "governor": "/sys/devices/system/cpu/cpu12/cpufreq/scaling_governor",
+            "setspeed": "/sys/devices/system/cpu/cpu12/cpufreq/scaling_setspeed",
+            "available_governor":"/sys/devices/system/cpu/cpu12/cpufreq/scaling_available_governors"
+        },
+        
+
+        "cpu13": {
+            "freq_min": "/sys/devices/system/cpu/cpu13/cpufreq/scaling_min_freq",
+            "freq_now": "/sys/devices/system/cpu/cpu13/cpufreq/scaling_cur_freq",
+            "freq_max": "/sys/devices/system/cpu/cpu13/cpufreq/scaling_max_freq",
+            "available_freq": "/sys/devices/system/cpu/cpu13/cpufreq/scaling_available_frequencies",
+            "temp": "",
+            "governor": "/sys/devices/system/cpu/cpu13/cpufreq/scaling_governor",
+            "setspeed": "/sys/devices/system/cpu/cpu13/cpufreq/scaling_setspeed",
+            "available_governor":"/sys/devices/system/cpu/cpu13/cpufreq/scaling_available_governors"
+        },
+        
+        "cpu14": {
+            "freq_min": "/sys/devices/system/cpu/cpu14/cpufreq/scaling_min_freq",
+            "freq_now": "/sys/devices/system/cpu/cpu14/cpufreq/scaling_cur_freq",
+            "freq_max": "/sys/devices/system/cpu/cpu14/cpufreq/scaling_max_freq",
+            "available_freq": "/sys/devices/system/cpu/cpu14/cpufreq/scaling_available_frequencies",
+            "temp": "",
+            "governor": "/sys/devices/system/cpu/cpu14/cpufreq/scaling_governor",
+            "setspeed": "/sys/devices/system/cpu/cpu14/cpufreq/scaling_setspeed",
+            "available_governor":"/sys/devices/system/cpu/cpu14/cpufreq/scaling_available_governors"
+        },
+        
+
+        "cpu15": {
+            "freq_min": "/sys/devices/system/cpu/cpu15/cpufreq/scaling_min_freq",
+            "freq_now": "/sys/devices/system/cpu/cpu15/cpufreq/scaling_cur_freq",
+            "freq_max": "/sys/devices/system/cpu/cpu15/cpufreq/scaling_max_freq",
+            "available_freq": "/sys/devices/system/cpu/cpu15/cpufreq/scaling_available_frequencies",
+            "temp": "",
+            "governor": "/sys/devices/system/cpu/cpu15/cpufreq/scaling_governor",
+            "setspeed": "/sys/devices/system/cpu/cpu15/cpufreq/scaling_setspeed",
+            "available_governor":"/sys/devices/system/cpu/cpu15/cpufreq/scaling_available_governors"
+        }
+
+        
+        
+    },
+    "gpu": {
+        "freq": "/sys/class/misc/mali0/device/clock",
+        "temp": "",
+        "usage": "/sys/class/misc/mali0/device/utilization",
+        "setfreq": "",
+        "governor": "/sys/class/misc/mali0/device/dvfs",
+        "available_freq": "",
+        "available_governor": "/sys/class/misc/mali0/device/dvfs_governor"
+    },
+    "battery": {
+        "cap": "/sys/class/power_supply/battery/capacity",
+        "cur": "/sys/class/power_supply/battery/current_now",
+        "vol": "/sys/class/power_supply/battery/voltage_now",
+        "temp": "/sys/class/power_supply/battery/temp"
+    },
+    "thermal": {
+        "thermal_zone0": "/sys/class/thermal/thermal_zone0/temp",
+	"thermal_zone1": "/sys/class/thermal/thermal_zone1/temp",
+	"thermal_zone2": "/sys/class/thermal/thermal_zone2/temp",
+	"thermal_zone3": "/sys/class/thermal/thermal_zone3/temp",
+	"thermal_zone4": "/sys/class/thermal/thermal_zone4/temp",
+	"thermal_zone5": "/sys/class/thermal/thermal_zone5/temp",
+	"thermal_zone6": "/sys/class/thermal/thermal_zone6/temp"
+    },
+    "other": {
+        "net_info": "/proc/net/dev",
+        "mem_info": "/proc/meminfo"
+    }
+}
