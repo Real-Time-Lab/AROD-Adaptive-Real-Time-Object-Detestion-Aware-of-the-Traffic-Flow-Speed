@@ -1,7 +1,7 @@
-**Citation:** Please cite this work as follows.
+## Citation: 
 
-Yu Liu, Kyoung-Don Kang, "AROD: Adaptive Real-Time Object Detection
-Based on Pixel Motion Speed," In Proceedings of IEEE Vehicular Technology Conference (VTC2024-Fall), Washington DC, October 7-10, 2024. 
+**Yu Liu, Kyoung-Don Kang, "AROD: Adaptive Real-Time Object Detection
+Based on Pixel Motion Speed," In Proceedings of IEEE Vehicular Technology Conference (VTC2024-Fall), Washington DC, October 7-10, 2024.** 
 
 ## Setup data folder:
 - creat the folder: ~'/Documents/datasets/traffic/sh' to put videos below
