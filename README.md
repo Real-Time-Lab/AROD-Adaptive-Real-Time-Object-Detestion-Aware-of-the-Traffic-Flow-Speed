@@ -1,4 +1,5 @@
-Please cite this as follows:
+Please cite this work as follows:
+
 Yu Liu, Kyoung Don Kang, "AROD: Adaptive Real-Time Object Detection
 Based on Pixel Motion Speed," In Proceedings of IEEE Vehicular Technology Conference (VTC2024-Fall), Washington DC, October 7-10, 2024. 
 
